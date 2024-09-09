@@ -1,5 +1,13 @@
 Hi there 👋
 
+I`m using HTML/CSS/JavaScript to make websites dance.🕺
+
+I’m currently working on:
+<ul> 
+  <li>My portfolio</li>
+  <li>Shaping myself as the best Fullstack developer</li>
+</ul>
+
 <!--
 **Polleon462/Polleon462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
