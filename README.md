@@ -1,16 +1,15 @@
-##Hi there 👋
+### <strong> Hi there 👋</strong>
 
-###I`m using HTML/CSS/JavaScript to make websites dance.🕺
+<b>I`m using</b> <em>HTML/CSS/JavaScript</em> to make websites dance.🕺
 
-###I’m currently working on:
+<b>I’m currently working on:</b>
 <ul> 
   <li>My portfolio</li>
   <li>Shaping myself as the best Fullstack developer</li>
 </ul>
 
 ### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
+<ul><li>Finding a job on interesting projects</li> <li>some new community of like-minded people</li></ul>
 <!--
 **Polleon462/Polleon462** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
