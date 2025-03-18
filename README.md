@@ -11,7 +11,7 @@
 ### 🤔 I’m looking for help with
 <ul>
   <li>Finding a job on interesting projects</li>
-  <li>some new community of like-minded people</li>
+  <li>Some new community of like-minded people</li>
 </ul>
 
 <!--
